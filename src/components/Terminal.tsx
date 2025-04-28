@@ -21,13 +21,11 @@ const Terminal: React.FC = () => {
         <div>
           <p className="text-white">$ cat skills.txt</p>
           <div className="ml-4 grid grid-cols-2 gap-2">
+            <div>• JavaScript</div>
             <div>• Node.js</div>
-            <div>• Python</div>
+            <div>• php/Laravel</div>
             <div>• PostgreSQL</div>
-            <div>• MongoDB</div>
-            <div>• Docker</div>
-            <div>• Redis</div>
-            <div>• AWS</div>
+            <div>• MySql</div>
           </div>
         </div>
       </div>
